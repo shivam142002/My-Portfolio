@@ -12,10 +12,10 @@ const About = () => {
                     </div>
 
                     <p className='text-xl mt-10  '>
-                        My name is Shivam Kumar and I am a Front-End developer currently looking for Front-End roles.
+                        My name is Shivam Kumar and I am a Full Stack Developer currently looking for MERN Stack roles.
                         <br />
                         <br />
-                        I have a knack for good design and UI and have good knowledge of ReactJS, Redux , HTML,CSS and Javascript concepts such as Closures, Event-Loop, Hoisting, Callbacks, Promises, etc. I have also worked with state management tools such as REDUX and CONTEXT-API and handled asynchronous network calls in Javascript using Async/Await.
+                        I have a knack for good design and UI and have good knowledge of ReactJS, NodeJS, Redux, HTML, CSS and Javascript concepts such as Closures, Event-Loop, Hoisting, Callbacks, Promises, etc. I have also worked with state management tools such as REDUX and CONTEXT-API and handled asynchronous network calls in Javascript using Async/Await.
                     </p>
 
                     <br />

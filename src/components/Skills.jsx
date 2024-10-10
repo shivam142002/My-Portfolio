@@ -8,7 +8,7 @@ import redux from '../assets/logoRedux.png'
 import mySQL from '../assets/mySQL.png'
 import tailwind from '../assets/tailwind.png';
 import JavaLogo from '../assets/JavaLogo.png';
-
+import nodeQ from '../assets/nodeQ.png';
 const Skills = () => {
 
     const skills = [
@@ -76,7 +76,15 @@ const Skills = () => {
             style: 'shadow-sky-400'
 
         },
+        {
+            id: 8,
+            img: nodeQ,
+            title: 'NODEJS',
+            //style: 'shadow-sky-400'
+             style: 'shadow-green-400'
+        },
 
+         
         {
             id: 7,
             img: JavaLogo,

@@ -13,7 +13,7 @@ const Home = () => {
 
                     <div className=" flex flex-col justify-center h-full ">
 
-                        <h2 className='text-4xl md:text-7xl font-bold text-white' >I'm a Front-End Developer</h2>
+                        <h2 className='text-4xl md:text-7xl font-bold text-white' >I'm a Full Stack Developer </h2>
                         <p className='text-gray-200 text-2xl  py-4 max-w-md'>
                             Hi, welcome to my portfolio.
                         </p>
@@ -31,7 +31,7 @@ const Home = () => {
                     <div className="">
                         <img
                             src={shivamPhoto}
-                            alt="hero_image"
+                            alt="shivam_image"
                             className="rounded-2xl mx-auto w-2/3 md:w-full" />
                     </div>
 
